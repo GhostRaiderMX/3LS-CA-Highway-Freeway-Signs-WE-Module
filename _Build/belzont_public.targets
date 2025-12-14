@@ -39,6 +39,7 @@
       <PublishContent>$(PublishContent)@(ModTag->'&lt;Tag Value="%(Identity)" /&gt;','%0a%0d')</PublishContent>
       <PublishContent>$(PublishContent)@(Screenshots->'&lt;Screenshot Value="%(Identity)" /&gt;','%0a%0d')</PublishContent>
       <PublishContent>$(PublishContent)@(Dependency->'&lt;Dependency Id="%(ModId)" ModVersion="%(Version)" DisplayName="%(DisplayName)"/&gt;','%0a%0d')</PublishContent>
+	    <!-- Add more Social Links here -->
       <PublishContent Condition="'$(GitHubLink)' != ''">$(PublishContent)<ExternalLink Type="github" Url="$(GitHubLink)"/></PublishContent>
       <PublishContent Condition="'$(YoutubeLink)' != ''">$(PublishContent)<ExternalLink Type="youtube" Url="$(YoutubeLink)"/></PublishContent>
       <PublishContent Condition="'$(KofiLink)' != ''">$(PublishContent)<ExternalLink Type="kofi" Url="$(KofiLink)"/></PublishContent>
