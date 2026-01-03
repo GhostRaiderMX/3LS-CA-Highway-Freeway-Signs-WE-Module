@@ -1,2 +1,2 @@
-# v1.0.1
-- Added missing 2LS EO, 2LS EO RF1, 2LS O RF1, 2LS OLL, and 2LS ORL signs.
+# v1.1
+- Adds additional 85 new 2LS CA Highway signs with California Exit Tab Style 1 with Ext1 WE atlas pack.

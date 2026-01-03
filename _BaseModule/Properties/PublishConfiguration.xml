@@ -10,6 +10,7 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 
 - 2 Lane (Small) California Highway (Freeway) signs inspired by California's MUTCD
 - 71 total signs (see screenshots)
+- Additional 85 new signs with exit tab style 1 with Ext1 WE atlas pack (with v1.1 update)
 - WE Layout included for easy implementation onto your highways (freeways)
 
 ## How to Use
@@ -82,10 +83,10 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
 - To UnMaestro for the help and WE Module template!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/1ls-california-highway-freeway-signs-we-module.1891719" />
-  <ModVersion Value="1.0.1" />
+  <ModVersion Value="1.1.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog># v1.0.1
-- Added missing 2LS EO, 2LS EO RF1, 2LS O RF1, 2LS OLL, and 2LS ORL signs.</ChangeLog>
+  <ChangeLog># v1.1
+- Adds additional 85 new 2LS CA Highway signs with California Exit Tab Style 1 with Ext1 WE atlas pack.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_0.jpg" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
@@ -96,6 +97,7 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
   <Screenshot Value="Screenshots\Screenshot_6.jpg" />
   <Screenshot Value="Screenshots\Screenshot_7.jpg" />
   <Screenshot Value="Screenshots\Screenshot_8.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_9.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/GhostRaiderMX/2LS-CA-Highway-Freeway-Signs-WE-Module" />
 </Publish>
