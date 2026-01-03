@@ -97,7 +97,6 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
   <Screenshot Value="Screenshots\Screenshot_6.jpg" />
   <Screenshot Value="Screenshots\Screenshot_7.jpg" />
   <Screenshot Value="Screenshots\Screenshot_8.jpg" />
-  <Screenshot Value="Screenshots\Screenshot_9.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/GhostRaiderMX/2LS-CA-Highway-Freeway-Signs-WE-Module" />
 </Publish>
